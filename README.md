@@ -31,4 +31,5 @@ I used Tableau for cleaning and manipulating the data, creating calculated field
 Final thought: networking is not only about connecting with people on social media but making strong relationships by sharing ideas and focusing on helping! 
 
 
+![Screenshot 2022-06-14 090856](https://user-images.githubusercontent.com/79735527/173689350-4a670f94-19ea-483d-8cc9-a885dc603fe9.jpg)
 
